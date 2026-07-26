@@ -10,10 +10,10 @@ The completed **Milestone 2 Store Front Application** is located in the **Milest
 
 https://www.snaprecorder.org/v/846ef2ce-b20e-4086-9dfd-d43831681382
 
-## Repository Information
-
 The Milestone2 folder contains:
-- Java source code with inheritance implementation
+- Java source code implementing object-oriented programming concepts
+- Inheritance through the `SalableProduct` superclass and specialized `Weapon`, `Armor`, and `Health` subclasses
+- Updated `InventoryManager`, `ShoppingCart`, and `StoreFront` classes
 - Generated JavaDoc documentation
 - UML class diagram
 - Flowchart
