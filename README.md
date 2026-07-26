@@ -4,7 +4,7 @@
 
 ## Current Assignment
 
-The completed **Milestone 1 Store Front Application** is located in the **Milestone 2** folder.
+The completed **Milestone 2 Store Front Application** is located in the **Milestone 2** folder.
 
 ## Screencast
 
