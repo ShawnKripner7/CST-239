@@ -1,0 +1,41 @@
+[ {
+  "type" : "weapon",
+  "name" : "Sword",
+  "description" : "A sharp steel sword.",
+  "price" : 100.0,
+  "quantity" : 9,
+  "damage" : 25,
+  "weaponType" : "One-Handed"
+}, {
+  "type" : "weapon",
+  "name" : "Battle Axe",
+  "description" : "A powerful two-handed battle axe.",
+  "price" : 150.0,
+  "quantity" : 6,
+  "damage" : 40,
+  "weaponType" : "Two-Handed"
+}, {
+  "type" : "armor",
+  "name" : "Shield",
+  "description" : "A sturdy iron shield.",
+  "price" : 75.0,
+  "quantity" : 8,
+  "defense" : 20,
+  "material" : "Iron"
+}, {
+  "type" : "armor",
+  "name" : "Battle Armor",
+  "description" : "Heavy armor that provides strong protection.",
+  "price" : 200.0,
+  "quantity" : 3,
+  "defense" : 50,
+  "material" : "Steel"
+}, {
+  "type" : "health",
+  "name" : "Health Potion",
+  "description" : "Restores health when consumed.",
+  "price" : 25.0,
+  "quantity" : 20,
+  "healingAmount" : 50,
+  "effectDuration" : 5
+} ]
