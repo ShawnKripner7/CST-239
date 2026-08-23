@@ -8,7 +8,7 @@ The completed **Milestone 6 Store Front Application** is located in the **Milest
 
 ## Screencast
 
-
+https://www.snaprecorder.org/v/98a04a24-2380-438e-b961-f649a6d6d402
 
 Milestone 6 Description:
 
