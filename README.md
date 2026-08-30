@@ -1,18 +1,18 @@
-# CST-239
+# CST-239 Milestone 7
 
 **Student:** Shawn Kripner
 
-## Current Assignment
-
-The completed **Milestone 6 Store Front Application** is located in the **Milestone 6** folder.
-
 ## Screencast
 
-https://www.snaprecorder.org/v/98a04a24-2380-438e-b961-f649a6d6d402
+https://screenrec.com/share/HoFZsWt3n2
 
-Milestone 6 Description:
+## Project Description
 
-This project implements an Arena Store Front application using object-oriented programming concepts in Java. The application allows users to view products, purchase items, cancel purchases, display the contents of the shopping cart, and empty the shopping cart while maintaining accurate inventory quantities. The project uses the Java Collections Framework with ArrayLists to manage inventory and shopping cart products and allows products to be sorted in ascending or descending order by name and price. Milestone 6 adds a separate Administration Application that communicates with the Store Front through a network service. The Store Front uses a background server thread to process administration requests, allowing an administrator to retrieve inventory and replenish product quantities using JSON messages while the Store Front continues to operate.
+This project implements an Arena Store Front application using object-oriented programming concepts in Java. The application allows users to view products, purchase items, cancel purchases, display the contents of the shopping cart, and empty the shopping cart while maintaining accurate inventory quantities. The project uses the Java Collections Framework with ArrayLists to manage inventory and shopping cart products and allows products to be sorted in ascending or descending order by name and price.
+
+The application also includes a separate Administration Application that communicates with the Store Front through a network service. The Store Front uses a background server thread to process administration requests, allowing an administrator to retrieve inventory and replenish product quantities using JSON messages while the Store Front continues to operate.
+
+The final project includes JUnit unit testing for the SalableProduct base class, the Weapon, Armor, and Health derived classes, and the InventoryManager class. These tests are organized and executed through a JUnit Test Suite to verify product functionality, inheritance, inventory operations, and product sorting.
 
 ## Features
 
@@ -33,3 +33,7 @@ This project implements an Arena Store Front application using object-oriented p
 - Retrieve inventory using the R command
 - Update and replenish inventory using the U command
 - Send and receive inventory data using JSON
+- JUnit unit testing
+- Unit tests for SalableProduct
+- Unit tests for Weapon, Armor, and Health
+- Unit tests for InventoryManager
